@@ -18,10 +18,20 @@ The audit consisted of the following tasks:
 -Software: Python 3.7.6, Visual Studio Code 1.71.1
 
 
-## Summary
+## Election-Audit Results
 **The analysis of the election data shows that:**
 
-  -There were 369,711 total votes cast in the election
+  -There were 369,711 total votes cast in this congressional election.
+  
+  **Number of votes and percentage of total votes per county:**
+  
+  -Jefferson county made up 10.5% of the total votes with 38,855 votes.
+  
+  -Denver county made up 82.8% of the total votes with 306,055 votes.
+  
+  -Arapahoe county made up 6.7% of the total votes with 24,801 votes
+  
+  Denver county had the largest number of votes.
 
    **The candidates were:**
 
@@ -44,8 +54,6 @@ The audit consisted of the following tasks:
       -Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
   
-## Challenge Overview
+## Election-Audit Summary
 
-
-
-## Challenge Summary
+This script can be used and adapted to analyze any future elections. Slight modifications to the script can be incorporated to give more insight, such as determining the breakdown of county votes based on political party affiliation if provided with that data. The script can also be modified to 
