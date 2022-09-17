@@ -2,7 +2,9 @@
 
 ## Project Overview
 This project aimed at assisting a Colorado Board of Elections employee in an audit of the tabulated results for a U.S. congressional precinct in Colorado. 
+
 The audit consisted of the following tasks:
+
 1. The total number of votes cast
 2. A complete list of candidates who received votes
 3. The percentage of votes each candidate won
@@ -12,21 +14,33 @@ The audit consisted of the following tasks:
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.7.6, Visual Studio Code 1.71.1
 
 
 ## Summary
 The analysis of the election data shows that:
+
 -There were 369,711 total votes cast in the election
--The candidates were,:
+
+-The candidates were:
+
   -Charles Casper Stockham
+  
   -Diana DeGette
+  
   -Raymon Anthony Doane
+  
 -The candidate results were:
+
   -Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  
   -Diana DeGette received 73.8% of the vote and 272,892 votes.
+  
   -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  
 -The winner of the election was:
+
   -Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
   
