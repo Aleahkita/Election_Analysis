@@ -33,21 +33,21 @@ The audit consisted of the following tasks:
   
   Denver county had the largest number of votes.
 
-   **The candidates were:**
+  **The candidates were:**
 
    -Charles Casper Stockham
   
-      -Diana DeGette
+   -Diana DeGette
   
-      -Raymon Anthony Doane
+   -Raymon Anthony Doane
   
-   **The candidate results were:**
+  **The candidate results were:**
 
-    -Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  -Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
   
-    -Diana DeGette received 73.8% of the vote and 272,892 votes.
+  -Diana DeGette received 73.8% of the vote and 272,892 votes.
   
-    -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
   
   **The winner of the election was:**
 
