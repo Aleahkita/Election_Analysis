@@ -56,4 +56,4 @@ The audit consisted of the following tasks:
   
 ## Election-Audit Summary
 
-This script can be used and adapted to analyze any future elections. Slight modifications to the script can be incorporated to give more insight, such as determining the breakdown of county votes based on political party affiliation if provided with that data. The script can also be modified to 
+This script can be used and adapted to analyze any future elections. Slight modifications to the script can be incorporated to give more insight, such as determining the breakdown of county votes based on political party affiliation if provided with that data. The script can also be modified to fit larger elections with more candidates and different positions. The code would be modified to loop through additional data on position/role up for election and add it to a list of roles to determine winners for each one.
